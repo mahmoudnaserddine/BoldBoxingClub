@@ -183,7 +183,7 @@ In addition, boxing-specific drills like shadow boxing, bag work, and sparring h
 <!-- about section2 ends -->
 
 <center class="button">
-    <a href="login.html"><h1>Join Us Now!</h1></a>
+    <a href="login.php"><h1>Join Us Now!</h1></a>
   </center>
 <center>
 		
