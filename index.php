@@ -136,7 +136,7 @@ Overall, a boxing gym is a space where individuals can immerse themselves in the
 
 
 <center>
-    <img src="images/bb.jpeg" class="responsive-image" />
+    <img src="images/A.jpg" class="responsive-image" />
   </center>
   
 

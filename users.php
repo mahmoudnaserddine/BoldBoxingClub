@@ -204,7 +204,7 @@ text-decoration:none;
 
 <table class="rwd-table" width=80% >
 <tr><td>Full Name</td><td> Username </td> <td> password </td> <td> Date Of Birth </td> <td> Phone Number </td><td><center><a class="b" href="addu.php">Add User</a></center><td><center> <a class= "d" href="admin.php">BACK</a></center></td>
-<?php	$con= mysqli_connect("localhost", "root","", "boldclub");
+<?php	$con= mysqli_connect("localhost", "root","", "bbc");
 		$sql="select * from users";
 		$result=mysqli_query($con,$sql);
 		$rows=mysqli_num_rows($result);

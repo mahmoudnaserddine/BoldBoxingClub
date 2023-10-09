@@ -47,7 +47,7 @@ $phone_number=$row["phone_number"];
     /* Example styles */
     body {
       font-family: Arial, sans-serif;
-      background-color: #02557a;
+      background-color: #f4f4f4;
     }
     
     .form-container {

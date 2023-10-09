@@ -3,7 +3,7 @@
 
 
 
-$conn= mysqli_connect("localhost", "root","", "boldclub");
+$conn= mysqli_connect("localhost", "root","", "bbc");
 
 if ($conn->connect_error) {
   die("Connection failed: " . $conn->connect_error);

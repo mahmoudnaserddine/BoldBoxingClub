@@ -4,7 +4,7 @@ if ( isset ($_POST["regfn"]) && isset($_POST["regname"]) && isset($_POST["regdob
 	if ($_POST["regpass1"] == $_POST["regpass2"]) {
 		$servername = "localhost";
 		$username = "root";
-		$conn = mysqli_connect($servername, $username, "", "boldclub") or die(mysql_error());
+		$conn = mysqli_connect($servername, $username, "", "bbc") or die(mysql_error());
         
 		$FullName =  mysqli_real_escape_string($conn, $_POST["regfn"]);
 		$username = mysqli_real_escape_string($conn, $_POST["regname"]);

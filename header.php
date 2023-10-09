@@ -36,9 +36,13 @@
 		<div class ="col-sm-3" style = "min-height:500px;background-color: black">
 		
 	
-			
+			<b><li style="color:red"><a style="color:white" href="mainpagea.php">MainPage</a></li></b>
 			<b><li style="color:red"><a style="color:white" href="logout.php">Logout</a></li></b><br>
 			<b><li style="color:red"><a style="color:white" href="users.php">Users</a></li></b>
+			<b><li style="color:red"><a style="color:white" href="trainers.php">Trainers</a></li></b>
+            <b><li style="color:red"><a style="color:white" href="equipments.php">equipments</a></li></b>
+			<b> <li style="color:red"><a style="color:white" href="exercises.php">exercises</a></li></b>
+            <b><li style="color:red"><a style="color:white" href="employees.php">employees</a></li></b>
 			
 		
 			

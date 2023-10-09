@@ -11,7 +11,7 @@ if (isset($_POST['submit'])) {
 
 		$username = stripslashes($username);
 		$password = stripslashes($password);
-		$con = mysqli_connect("localhost", "root", "", "boldclub");
+		$con = mysqli_connect("localhost", "root", "", "bbc");
 		$sql = "SELECT users.password, users.username, users.roleid FROM users WHERE password = '$password' AND username = '$username'";
 		$result = mysqli_query($con, $sql);
 		$rows = mysqli_num_rows($result);

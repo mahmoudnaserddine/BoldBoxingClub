@@ -20,10 +20,10 @@ Full Name:
 
 
       Date Of Birth:
-        <center> <input type="date" id="date_of_birth" name="date_of_birth" required ></center>
-<br>
+        <center> <input type="text" id="date_of_birth" name="date_of_birth" required ></center>
+
         Phone Number:
-        <center> <input type="number" id="phone_number" name="phone_number" required ></center>
+        <center> <input type="text" id="phone_number" name="phone_number" required ></center>
       <input type="submit" name="submit" value="Add User">
     
 <input type="Reset">
